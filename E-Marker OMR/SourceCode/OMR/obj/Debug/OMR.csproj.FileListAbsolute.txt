@@ -1,0 +1,64 @@
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\OMR.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.Imaging.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.Math.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.Math.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\bin\Debug\AForge.Imaging.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\OMR.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\OMR.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.Imaging.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.Math.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.Math.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\bin\Debug\AForge.Imaging.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR\obj\Debug\OMR.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\OMR.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\OMR.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.Imaging.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.Math.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\obj\Debug\OMR.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.Imaging.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR\bin\Debug\AForge.Math.dll
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\bin\Debug\OMR.dll
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\bin\Debug\OMR.pdb
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\bin\Debug\AForge.xml
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\bin\Debug\AForge.Imaging.xml
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\bin\Debug\AForge.Math.xml
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.csprojResolveAssemblyReference.cache
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.dll
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR\obj\Debug\OMR.pdb
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\bin\Debug\OMR.dll
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\bin\Debug\OMR.pdb
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\bin\Debug\AForge.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\bin\Debug\AForge.Imaging.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\bin\Debug\AForge.Math.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.dll
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR\obj\Debug\OMR.pdb

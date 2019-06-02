@@ -1,0 +1,52 @@
+package model;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+
+@SuppressWarnings("serial")
+public class Exam implements Serializable {
+	
+	private int examId;
+	private String examName;
+	private KeySheet keySheet;
+	private ArrayList<AnswerSheet> answerSheets;
+	
+	public Exam(int examId, String examName) {
+		answerSheets = new ArrayList<AnswerSheet>();
+		keySheet = new keySheet();
+		this.examId = examId;
+		this.examName = examName;
+	}
+	
+	public void setExamId(int examId) {
+		this.examId = examId;
+	}
+	
+	public int getExamId() {
+		return this.examId;
+	}
+	
+	public void setExamName(String examName) {
+		this.examName = examName;
+	}
+	
+	public String getExamName() {
+		return this.examName;
+	}
+	
+	public void setKeySheet(KeySheet keySheet) {
+		this.keySheet = keySheet;
+	}
+	
+	public KeySheet getKeySheet() {
+		return this.keySheet;
+	}
+	
+	public void setAnswerSheets(ArrayList<AnswerSheet> answerSheets) {
+		this.answerSheets = answerSheets;
+	}
+	
+	public ArrayList<AnswerSheet> getAnswerSheets() {
+		return this.answerSheets;
+	}
+}

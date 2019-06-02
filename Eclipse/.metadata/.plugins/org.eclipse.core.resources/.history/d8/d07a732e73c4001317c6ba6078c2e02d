@@ -1,0 +1,160 @@
+package view;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+
+import java.awt.Color;
+
+import javax.swing.JLabel;
+import javax.swing.ImageIcon;
+
+import java.awt.Font;
+
+import javax.swing.JButton;
+import javax.swing.JTextField;
+
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.io.IOException;
+import model.Teacher;
+
+@SuppressWarnings("serial")
+public class AddResultView extends JFrame {
+
+	@SuppressWarnings("unused")
+	private Teacher teacher;
+	private int examIndex;
+	
+	private JPanel contentPane;
+	private JTextField txtStudentName;
+	private JTextField textField_1;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					AddResultView frame = new AddResultView(null);
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public AddResultView(final Teacher teacher) //return to (final Teacher teacher, final int examIndex)
+	{
+		this.teacher = teacher;
+		this.examIndex = examIndex;
+		
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 541, 266);
+		contentPane = new JPanel();
+		contentPane.setBackground(Color.WHITE);
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		JLabel label = new JLabel("");
+		label.setIcon(new ImageIcon("C:\\Users\\Personal\\Desktop\\hct\\course project 2014\\second_page.png"));
+		label.setBounds(10, 21, 403, 77);
+		contentPane.add(label);
+		
+		JPanel panel = new JPanel();
+		panel.setBackground(Color.WHITE);
+		panel.setBounds(20, 108, 489, 113);
+		contentPane.add(panel);
+		panel.setLayout(null);
+		
+		JLabel lblAddStudentSheet = new JLabel("Add Student Sheet :");
+		lblAddStudentSheet.setFont(new Font("Times New Roman", Font.PLAIN, 14));
+		lblAddStudentSheet.setBounds(10, 36, 115, 23);
+		panel.add(lblAddStudentSheet);
+		
+		JButton btnScan2 = new JButton("Scan");
+		btnScan2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				
+				try {
+					Runtime.getRuntime().exec("C:\\Program Files (x86)\\Canon\\MP Navigator EX 4.0\\mpnex40.exe");
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		});
+		btnScan2.setBounds(394, 71, 85, 23);
+		panel.add(btnScan2);
+		
+		JButton btnCalculate = new JButton("Add student");
+		btnCalculate.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				String studName = txtStudentName.getText();
+				String teacherName = teacher.getUsername();
+				String imagePath = textField_1.getText();
+				if(studName.length() > 0) {
+					// TODO SEND TO C#
+					try {
+						//String[] cmd = {"C:\\Users\\Personal\\Documents\\Visual Studio 2012\\Projects\\OMRReader\\OMRReader\\bin\\Debug\\OMRReader.exe"};
+						String[] cmd = {"OMR Test 1.exe", teacherName, studName, imagePath};
+						Process p = Runtime.getRuntime().exec(cmd);
+						p.waitFor();
+					} catch (IOException e) {
+						e.printStackTrace();
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}			
+				}
+				else {
+					JOptionPane.showMessageDialog(null, "Please add a student name");
+				}
+			}
+		});
+		btnCalculate.setBounds(10, 79, 115, 23);
+		panel.add(btnCalculate);
+		
+		JButton btnCancel = new JButton("Cancel");
+		btnCancel.setBounds(135, 79, 89, 23);
+		panel.add(btnCancel);
+		
+		txtStudentName = new JTextField();
+		txtStudentName.setBounds(127, 9, 257, 20);
+		panel.add(txtStudentName);
+		txtStudentName.setColumns(10);
+		
+		JLabel lblStudentName = new JLabel("Student Name :");
+		lblStudentName.setFont(new Font("Times New Roman", Font.PLAIN, 14));
+		lblStudentName.setBounds(10, 11, 97, 14);
+		panel.add(lblStudentName);
+		
+		JButton btnBrowse2 = new JButton("Browse");
+		btnBrowse2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				JFileChooser jf = new JFileChooser();
+				int res = jf.showOpenDialog(AddResultView.this);
+				if(res == JFileChooser.APPROVE_OPTION) {
+					String path = jf.getSelectedFile().toString();
+					textField_1.setText(path);
+				}
+			}
+		});
+		btnBrowse2.setBounds(394, 37, 85, 23);
+		panel.add(btnBrowse2);
+		
+		textField_1 = new JTextField();
+		textField_1.setEnabled(false);
+		textField_1.setBounds(127, 40, 257, 20);
+		panel.add(textField_1);
+		textField_1.setColumns(10);
+	}
+}

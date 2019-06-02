@@ -1,0 +1,4 @@
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR\obj\Debug\OMR.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR\obj\Debug\OMR.Forms.AnswerKeyMaker.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR\obj\Debug\OMR.Forms.SheetSelector.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR\obj\Debug\OMR.csproj.GenerateResource.Cache

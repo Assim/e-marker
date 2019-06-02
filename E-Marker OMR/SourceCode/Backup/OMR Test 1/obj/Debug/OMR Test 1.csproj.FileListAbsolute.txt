@@ -1,0 +1,4 @@
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\Backup\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache

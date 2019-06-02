@@ -1,0 +1,104 @@
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.Imaging.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.Math.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\OMR Test 1\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.Math.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\UETian\Documents\Visual Studio 2008\Projects\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.dll
+C:\Users\Personal\Dropbox\Love Birds\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.dll
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\Assim Al-Marhuby\Desktop\OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR ol\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR ol\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache
+C:\Users\Assim Al-Marhuby\Desktop\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.dll
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.dll
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.dll
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\Personal\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.exe
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.pdb
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.exe
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR Test 1.pdb
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.dll
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\OMR.pdb
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Imaging.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\bin\Debug\AForge.Math.xml
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader_test1.Form1.resources
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMRReader.Properties.Resources.resources
+C:\Users\toshiba\Dropbox\Bachelor Course Project\E-Marker OMR\SourceCode\OMR Test 1\obj\Debug\OMR Test 1.csproj.GenerateResource.Cache

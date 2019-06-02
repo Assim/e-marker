@@ -1,0 +1,183 @@
+package view;
+
+import java.awt.EventQueue;
+
+import javax.swing.DefaultComboBoxModel;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JOptionPane;
+import javax.swing.JComboBox;
+import javax.swing.JButton;
+
+import model.AnswerSheet;
+import model.Exam;
+import model.KeySheet;
+import model.Teacher;
+
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.util.ArrayList;
+import java.awt.Color;
+
+import javax.swing.JLabel;
+import javax.swing.ImageIcon;
+import java.awt.Font;
+import java.io.IOException;
+
+@SuppressWarnings("serial")
+public class ExamView extends JFrame {
+
+	private Teacher teacher;
+	
+	private JPanel contentPane;
+	private JComboBox<String> comboBox;
+	private DefaultComboBoxModel<String> model;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					ExamView frame = new ExamView(null);
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public ExamView(final Teacher teacher) {
+		this.teacher = teacher;
+		model = new DefaultComboBoxModel<String>();
+		
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 458, 301);
+		contentPane = new JPanel();
+		contentPane.setBackground(Color.WHITE);
+		contentPane.setForeground(Color.BLACK);
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		comboBox = new JComboBox<String>();
+		comboBox.setBounds(10, 132, 400, 20);
+		comboBox.setModel(model);
+		contentPane.add(comboBox);
+		
+		JButton buttonRemove = new JButton("Remove Exam");
+		buttonRemove.setBounds(145, 163, 109, 34);
+		buttonRemove.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				teacher.getExams().remove(comboBox.getSelectedIndex());
+				teacher.saveToFile(); // save to teahcer file
+				updateComboBox();
+			}
+		});
+		contentPane.add(buttonRemove);
+		
+		JButton buttonView = new JButton("Scan Student Sheet");
+		buttonView.setBounds(264, 163, 146, 34);
+		buttonView.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+
+				try {
+					Runtime.getRuntime().exec("C:\\Program Files (x86)\\Canon\\MP Navigator EX 4.0\\mpnex40.exe");
+				} catch (IOException ee) {
+					ee.printStackTrace();
+				}
+			}
+		});
+		contentPane.add(buttonView);
+		
+		JButton buttonAddExam = new JButton("Add Exam");
+		buttonAddExam.setBounds(10, 163, 125, 34);
+		buttonAddExam.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				new AddExamView(teacher).setVisible(true);
+				/*String examName = JOptionPane.showInputDialog("Add exam name:");
+				String examType = JOptionPane.showInputDialog("Enter exam type:");
+				teacher.getExams().add(new Exam(examName, examType));
+				teacher.saveToFile(); // save to teacher file
+				updateComboBox();*/
+			}
+		});
+		contentPane.add(buttonAddExam);
+		
+		JLabel lblNewLabel = new JLabel("New label");
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Personal\\Desktop\\hct\\course project 2014\\second_page.png"));
+		lblNewLabel.setBounds(22, 11, 378, 75);
+		contentPane.add(lblNewLabel);
+		
+		JLabel lblAvailableExams = new JLabel("Available Exams :");
+		lblAvailableExams.setFont(new Font("Times New Roman", Font.BOLD, 13));
+		lblAvailableExams.setBounds(22, 107, 131, 14);
+		contentPane.add(lblAvailableExams);
+		
+		JButton btnAddResult = new JButton("Add Student ");
+		btnAddResult.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				try {
+					Runtime.getRuntime().exec("OMR Test 1.exe");
+				} catch(Exception e) {}
+				System.exit(0);
+			}
+		});
+		btnAddResult.setBounds(59, 202, 141, 34);
+		contentPane.add(btnAddResult);
+		
+		JButton btnViewExam = new JButton("View Exam Marks");
+		btnViewExam.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				StringBuilder sb = new StringBuilder();
+				
+				int index = comboBox.getSelectedIndex();
+				Exam exam = teacher.getExams().get(index);
+				
+				KeySheet ks = exam.getKeySheet();
+				ArrayList<Integer> ksChoices = ks.getChoices();
+				int maxScore = ksChoices.size();
+				
+				ArrayList<AnswerSheet> answerSheets = exam.getAnswerSheets();
+				
+				for(AnswerSheet as: answerSheets) {
+					int score = 0;
+					ArrayList<Integer> asChoices = as.getChoices();
+					int i = 0;
+					for(int ch: ksChoices) {
+						if(ch == asChoices.get(i)) {
+							score++;
+						}
+						i++;
+					}
+					sb.append(as.getStudentName());
+					sb.append(" - ");
+					sb.append(score);
+					sb.append("/");
+					sb.append(maxScore);
+					sb.append("\n");
+				}
+				JOptionPane.showMessageDialog(null, sb.toString());
+			}
+		});
+		btnViewExam.setBounds(210, 202, 141, 34);
+		contentPane.add(btnViewExam);
+		
+		updateComboBox();
+	}
+	
+	public void updateComboBox() {	
+		model.removeAllElements();
+		ArrayList<Exam> exams = teacher.getExams();
+		for(Exam exam : exams) {
+			model.addElement(exam.getExamId()+": "+exam.getExamName());
+		}
+		teacher.saveToFile();
+	}
+}
